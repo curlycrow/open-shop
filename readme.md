@@ -69,8 +69,6 @@ Replace the example path with the trace file generated for the failed test. The 
 
 ## GitHub Actions (CI/CD)
 
-There is currently no GitHub Actions workflow in this repository, so tests will not run automatically on GitHub yet. The GitHub **Actions** tab will show workflow runs after a workflow has been added and triggered.
-
 Once a workflow is configured:
 
 1. Push a commit or open/update a pull request if the workflow is configured for those events. This starts a run automatically.
