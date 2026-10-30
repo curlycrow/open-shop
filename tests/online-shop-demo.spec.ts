@@ -1,4 +1,4 @@
-import { expect, test } from './fixtures';
+import { expect, test } from './base-shopFixture';
 
 test.describe('Online Shop Demo', () => {
   test('homepage shows top-level shopping navigation', async ({ page, homePage }) => {
