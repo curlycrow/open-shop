@@ -68,6 +68,7 @@ npx playwright show-trace "test-results/<test-result-folder>/trace.zip"
 Replace the example path with the trace file generated for the failed test. The trace viewer lets you inspect actions, snapshots, and network activity.
 
 ## GitHub Actions (CI/CD)
+### Soon to be Update
 
 Once a workflow is configured:
 
